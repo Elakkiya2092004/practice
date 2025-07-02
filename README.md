@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Elakkiya2092004/practice/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
+| [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Elakkiya2092004/practice/tree/master/1656-count-good-triplets) |
+| [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->
