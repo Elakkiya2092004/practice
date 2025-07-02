@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [1656-count-good-triplets](https://github.com/Elakkiya2092004/practice/tree/master/1656-count-good-triplets) |
 | [2249-count-the-hidden-sequences](https://github.com/Elakkiya2092004/practice/tree/master/2249-count-the-hidden-sequences) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Elakkiya2092004/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
 | ------- |
