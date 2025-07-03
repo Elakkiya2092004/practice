@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Elakkiya2092004/practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Elakkiya2092004/practice/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Elakkiya2092004/practice/tree/master/0029-divide-two-integers) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Elakkiya2092004/practice/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Elakkiya2092004/practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
