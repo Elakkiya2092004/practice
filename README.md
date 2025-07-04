@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Elakkiya2092004/practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Elakkiya2092004/practice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Elakkiya2092004/practice/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Elakkiya2092004/practice/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
