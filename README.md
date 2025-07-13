@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Elakkiya2092004/practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Elakkiya2092004/practice/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Elakkiya2092004/practice/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Elakkiya2092004/practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Elakkiya2092004/practice/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Elakkiya2092004/practice/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Elakkiya2092004/practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Elakkiya2092004/practice/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/Elakkiya2092004/practice/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Elakkiya2092004/practice/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Elakkiya2092004/practice/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Elakkiya2092004/practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
