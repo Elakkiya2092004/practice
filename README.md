@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Elakkiya2092004/practice/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/Elakkiya2092004/practice/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Elakkiya2092004/practice/tree/master/0005-longest-palindromic-substring) |
+| [0086-partition-list](https://github.com/Elakkiya2092004/practice/tree/master/0086-partition-list) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
