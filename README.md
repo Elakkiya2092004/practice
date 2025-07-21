@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Elakkiya2092004/practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Elakkiya2092004/practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Elakkiya2092004/practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Elakkiya2092004/practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Elakkiya2092004/practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Elakkiya2092004/practice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Elakkiya2092004/practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Elakkiya2092004/practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
