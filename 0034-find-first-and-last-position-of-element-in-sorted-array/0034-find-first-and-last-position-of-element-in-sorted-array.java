@@ -1,14 +1,12 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
         int[] arr = {-1 ,-1};
-
-        arr[0] = search(nums,target,true);
+         arr[0] = search(nums,target,true);
         if(arr[0] != -1){
             arr[1] = search(nums,target,false);
         }
     return arr;
     }
-    
     int search(int[] nums, int target, boolean isStart){
         int start = 0;
         int end = nums.length-1;
@@ -30,6 +28,5 @@ class Solution {
             }
         }
         return ans;
-
-    }
+        }
 }
