@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Elakkiya2092004/practice/tree/master/2249-count-the-hidden-sequences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Elakkiya2092004/practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
 |  |
 | ------- |
