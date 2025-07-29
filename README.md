@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Elakkiya2092004/practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Elakkiya2092004/practice/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Elakkiya2092004/practice/tree/master/0055-jump-game) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Elakkiya2092004/practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Elakkiya2092004/practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Elakkiya2092004/practice/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Elakkiya2092004/practice/tree/master/0179-largest-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Elakkiya2092004/practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Elakkiya2092004/practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Elakkiya2092004/practice/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Elakkiya2092004/practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
