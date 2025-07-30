@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Elakkiya2092004/practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Elakkiya2092004/practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Elakkiya2092004/practice/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Elakkiya2092004/practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Elakkiya2092004/practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Elakkiya2092004/practice/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/Elakkiya2092004/practice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Elakkiya2092004/practice/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Elakkiya2092004/practice/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Elakkiya2092004/practice/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sliding Window
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Elakkiya2092004/practice/tree/master/0357-count-numbers-with-unique-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Elakkiya2092004/practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
