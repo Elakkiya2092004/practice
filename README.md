@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Elakkiya2092004/practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/Elakkiya2092004/practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Elakkiya2092004/practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Elakkiya2092004/practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Elakkiya2092004/practice/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/Elakkiya2092004/practice/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Elakkiya2092004/practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Elakkiya2092004/practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Elakkiya2092004/practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
