@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Elakkiya2092004/practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Elakkiya2092004/practice/tree/master/0011-container-with-most-water) |
 | [0086-partition-list](https://github.com/Elakkiya2092004/practice/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Elakkiya2092004/practice/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Elakkiya2092004/practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Elakkiya2092004/practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Elakkiya2092004/practice/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Elakkiya2092004/practice/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
