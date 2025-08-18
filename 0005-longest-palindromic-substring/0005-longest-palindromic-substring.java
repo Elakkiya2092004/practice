@@ -1,6 +1,6 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int max=0;
+       int max=0;
         String res="";
         for(int i=0;i<s.length();i++){
             for(int j=i;j<s.length();j++){
@@ -24,7 +24,6 @@ class Solution {
             }
             st++;
             e--;}
-            return true;
-        
+            return true; 
     }
 }
