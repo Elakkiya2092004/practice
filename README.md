@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Elakkiya2092004/practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Elakkiya2092004/practice/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Elakkiya2092004/practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Elakkiya2092004/practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Database
 |  |
 | ------- |
