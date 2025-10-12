@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Elakkiya2092004/practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Elakkiya2092004/practice/tree/master/0357-count-numbers-with-unique-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Elakkiya2092004/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
 ## Recursion
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Elakkiya2092004/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Elakkiya2092004/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Elakkiya2092004/practice/tree/master/0520-detect-capital) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
