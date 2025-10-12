@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Elakkiya2092004/practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Elakkiya2092004/practice/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Elakkiya2092004/practice/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
@@ -192,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Elakkiya2092004/practice/tree/master/0099-recover-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Elakkiya2092004/practice/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Elakkiya2092004/practice/tree/master/0099-recover-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Elakkiya2092004/practice/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -204,9 +207,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Elakkiya2092004/practice/tree/master/0099-recover-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Elakkiya2092004/practice/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Elakkiya2092004/practice/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Elakkiya2092004/practice/tree/master/0357-count-numbers-with-unique-digits) |
 ## Combinatorics
 |  |
