@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Elakkiya2092004/practice/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0392-is-subsequence) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Elakkiya2092004/practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Elakkiya2092004/practice/tree/master/0520-detect-capital) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Elakkiya2092004/practice/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Elakkiya2092004/practice/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Elakkiya2092004/practice/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
