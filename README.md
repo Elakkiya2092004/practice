@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Elakkiya2092004/practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Elakkiya2092004/practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Elakkiya2092004/practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Elakkiya2092004/practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Elakkiya2092004/practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Elakkiya2092004/practice/tree/master/0035-search-insert-position) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Elakkiya2092004/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Elakkiya2092004/practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Elakkiya2092004/practice/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Elakkiya2092004/practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Elakkiya2092004/practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Elakkiya2092004/practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Elakkiya2092004/practice/tree/master/0058-length-of-last-word) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Elakkiya2092004/practice/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Elakkiya2092004/practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
