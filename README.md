@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Elakkiya2092004/practice/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Elakkiya2092004/practice/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/Elakkiya2092004/practice/tree/master/0605-can-place-flowers) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Elakkiya2092004/practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1656-count-good-triplets](https://github.com/Elakkiya2092004/practice/tree/master/1656-count-good-triplets) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2249-count-the-hidden-sequences](https://github.com/Elakkiya2092004/practice/tree/master/2249-count-the-hidden-sequences) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Elakkiya2092004/practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Elakkiya2092004/practice/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Elakkiya2092004/practice/tree/master/0605-can-place-flowers) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Elakkiya2092004/practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Queue
 |  |
