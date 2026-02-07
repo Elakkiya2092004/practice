@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Elakkiya2092004/practice/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Elakkiya2092004/practice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/Elakkiya2092004/practice/tree/master/0771-jewels-and-stones) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Linked List
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Elakkiya2092004/practice/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Elakkiya2092004/practice/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Elakkiya2092004/practice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/Elakkiya2092004/practice/tree/master/0771-jewels-and-stones) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
 |  |
