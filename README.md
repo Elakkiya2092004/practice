@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Elakkiya2092004/practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Elakkiya2092004/practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Elakkiya2092004/practice/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Elakkiya2092004/practice/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Elakkiya2092004/practice/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Elakkiya2092004/practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Elakkiya2092004/practice/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Elakkiya2092004/practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Elakkiya2092004/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Elakkiya2092004/practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Elakkiya2092004/practice/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Elakkiya2092004/practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Elakkiya2092004/practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Elakkiya2092004/practice/tree/master/0219-contains-duplicate-ii) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Elakkiya2092004/practice/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Elakkiya2092004/practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
