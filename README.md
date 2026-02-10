@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Elakkiya2092004/practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Elakkiya2092004/practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Elakkiya2092004/practice/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Elakkiya2092004/practice/tree/master/0495-teemo-attacking) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Elakkiya2092004/practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Elakkiya2092004/practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Elakkiya2092004/practice/tree/master/0303-range-sum-query-immutable) |
 | [2102-find-the-middle-index-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2249-count-the-hidden-sequences](https://github.com/Elakkiya2092004/practice/tree/master/2249-count-the-hidden-sequences) |
 ## Enumeration
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Elakkiya2092004/practice/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Elakkiya2092004/practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
