@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Elakkiya2092004/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Elakkiya2092004/practice/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Elakkiya2092004/practice/tree/master/0415-add-strings) |
+| [0482-license-key-formatting](https://github.com/Elakkiya2092004/practice/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/Elakkiya2092004/practice/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Elakkiya2092004/practice/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Elakkiya2092004/practice/tree/master/0599-minimum-index-sum-of-two-lists) |
