@@ -254,11 +254,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Elakkiya2092004/practice/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Elakkiya2092004/practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Elakkiya2092004/practice/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Elakkiya2092004/practice/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Elakkiya2092004/practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Elakkiya2092004/practice/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Elakkiya2092004/practice/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Elakkiya2092004/practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Elakkiya2092004/practice/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Elakkiya2092004/practice/tree/master/0303-range-sum-query-immutable) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Elakkiya2092004/practice/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
