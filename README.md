@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Elakkiya2092004/practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Elakkiya2092004/practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Elakkiya2092004/practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Elakkiya2092004/practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Elakkiya2092004/practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Elakkiya2092004/practice/tree/master/0231-power-of-two) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Elakkiya2092004/practice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Elakkiya2092004/practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Elakkiya2092004/practice/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Elakkiya2092004/practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Elakkiya2092004/practice/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Elakkiya2092004/practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0392-is-subsequence) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Elakkiya2092004/practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Elakkiya2092004/practice/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
