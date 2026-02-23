@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Elakkiya2092004/practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1656-count-good-triplets](https://github.com/Elakkiya2092004/practice/tree/master/1656-count-good-triplets) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2249-count-the-hidden-sequences](https://github.com/Elakkiya2092004/practice/tree/master/2249-count-the-hidden-sequences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Elakkiya2092004/practice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Elakkiya2092004/practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Elakkiya2092004/practice/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
 ## Recursion
 |  |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Elakkiya2092004/practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Elakkiya2092004/practice/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/Elakkiya2092004/practice/tree/master/0463-island-perimeter) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
