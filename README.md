@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Elakkiya2092004/practice/tree/master/2249-count-the-hidden-sequences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Elakkiya2092004/practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Elakkiya2092004/practice/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Elakkiya2092004/practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Elakkiya2092004/practice/tree/master/0771-jewels-and-stones) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Elakkiya2092004/practice/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
+| [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Elakkiya2092004/practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
+| [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -344,4 +348,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
