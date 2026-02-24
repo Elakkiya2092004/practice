@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Elakkiya2092004/practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Elakkiya2092004/practice/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Elakkiya2092004/practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/Elakkiya2092004/practice/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
+| [3663-find-the-least-frequent-digit](https://github.com/Elakkiya2092004/practice/tree/master/3663-find-the-least-frequent-digit) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/Elakkiya2092004/practice/tree/master/3663-find-the-least-frequent-digit) |
 | [3765-complete-prime-number](https://github.com/Elakkiya2092004/practice/tree/master/3765-complete-prime-number) |
 ## Recursion
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
+| [3663-find-the-least-frequent-digit](https://github.com/Elakkiya2092004/practice/tree/master/3663-find-the-least-frequent-digit) |
 ## Simulation
 |  |
 | ------- |
