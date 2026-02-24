@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Elakkiya2092004/practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Elakkiya2092004/practice/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Elakkiya2092004/practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Elakkiya2092004/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Elakkiya2092004/practice/tree/master/0415-add-strings) |
@@ -357,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3765-complete-prime-number](https://github.com/Elakkiya2092004/practice/tree/master/3765-complete-prime-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Elakkiya2092004/practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Elakkiya2092004/practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
