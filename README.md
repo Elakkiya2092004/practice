@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-count-square-sum-triples](https://github.com/Elakkiya2092004/practice/tree/master/2037-count-square-sum-triples) |
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3765-complete-prime-number](https://github.com/Elakkiya2092004/practice/tree/master/3765-complete-prime-number) |
 ## Recursion
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Elakkiya2092004/practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Elakkiya2092004/practice/tree/master/0771-jewels-and-stones) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Elakkiya2092004/practice/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Elakkiya2092004/practice/tree/master/0682-baseball-game) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Elakkiya2092004/practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Elakkiya2092004/practice/tree/master/0062-unique-paths) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -351,5 +355,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3765-complete-prime-number](https://github.com/Elakkiya2092004/practice/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
