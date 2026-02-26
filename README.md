@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2102-find-the-middle-index-in-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Elakkiya2092004/practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2249-count-the-hidden-sequences](https://github.com/Elakkiya2092004/practice/tree/master/2249-count-the-hidden-sequences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Elakkiya2092004/practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Elakkiya2092004/practice/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Elakkiya2092004/practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Elakkiya2092004/practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Elakkiya2092004/practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Elakkiya2092004/practice/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Elakkiya2092004/practice/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Elakkiya2092004/practice/tree/master/0682-baseball-game) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Elakkiya2092004/practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Elakkiya2092004/practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
