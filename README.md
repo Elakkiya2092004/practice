@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Elakkiya2092004/practice/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Elakkiya2092004/practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Elakkiya2092004/practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1656-count-good-triplets](https://github.com/Elakkiya2092004/practice/tree/master/1656-count-good-triplets) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Elakkiya2092004/practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Elakkiya2092004/practice/tree/master/0771-jewels-and-stones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Elakkiya2092004/practice/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Sorting
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Elakkiya2092004/practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Elakkiya2092004/practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0392-is-subsequence) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
