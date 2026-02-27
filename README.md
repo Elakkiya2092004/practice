@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2102-find-the-middle-index-in-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Elakkiya2092004/practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Elakkiya2092004/practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2249-count-the-hidden-sequences](https://github.com/Elakkiya2092004/practice/tree/master/2249-count-the-hidden-sequences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Elakkiya2092004/practice/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Elakkiya2092004/practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Elakkiya2092004/practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Elakkiya2092004/practice/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Elakkiya2092004/practice/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Two Pointers
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Elakkiya2092004/practice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Elakkiya2092004/practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 | [3663-find-the-least-frequent-digit](https://github.com/Elakkiya2092004/practice/tree/master/3663-find-the-least-frequent-digit) |
 ## Simulation
