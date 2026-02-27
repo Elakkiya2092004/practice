@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Elakkiya2092004/practice/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Elakkiya2092004/practice/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Elakkiya2092004/practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Elakkiya2092004/practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Elakkiya2092004/practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Elakkiya2092004/practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Elakkiya2092004/practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Elakkiya2092004/practice/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Elakkiya2092004/practice/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Elakkiya2092004/practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Elakkiya2092004/practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Elakkiya2092004/practice/tree/master/0141-linked-list-cycle) |
