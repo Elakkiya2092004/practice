@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Elakkiya2092004/practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Elakkiya2092004/practice/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Elakkiya2092004/practice/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Elakkiya2092004/practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Elakkiya2092004/practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Elakkiya2092004/practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Elakkiya2092004/practice/tree/master/0238-product-of-array-except-self) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Elakkiya2092004/practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Elakkiya2092004/practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Elakkiya2092004/practice/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Elakkiya2092004/practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Elakkiya2092004/practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Elakkiya2092004/practice/tree/master/0292-nim-game) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Elakkiya2092004/practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Elakkiya2092004/practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Elakkiya2092004/practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Elakkiya2092004/practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Elakkiya2092004/practice/tree/master/0349-intersection-of-two-arrays) |
