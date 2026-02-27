@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Elakkiya2092004/practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Elakkiya2092004/practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1652-defuse-the-bomb](https://github.com/Elakkiya2092004/practice/tree/master/1652-defuse-the-bomb) |
 | [1656-count-good-triplets](https://github.com/Elakkiya2092004/practice/tree/master/1656-count-good-triplets) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Elakkiya2092004/practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Elakkiya2092004/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Elakkiya2092004/practice/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
+| [1652-defuse-the-bomb](https://github.com/Elakkiya2092004/practice/tree/master/1652-defuse-the-bomb) |
 ## Stack
 |  |
 | ------- |
