@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Elakkiya2092004/practice/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Elakkiya2092004/practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Elakkiya2092004/practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Elakkiya2092004/practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Elakkiya2092004/practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Elakkiya2092004/practice/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Elakkiya2092004/practice/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Elakkiya2092004/practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Elakkiya2092004/practice/tree/master/0268-missing-number) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Elakkiya2092004/practice/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Elakkiya2092004/practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Elakkiya2092004/practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Elakkiya2092004/practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Elakkiya2092004/practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Elakkiya2092004/practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Elakkiya2092004/practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -417,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Elakkiya2092004/practice/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Elakkiya2092004/practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Elakkiya2092004/practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
