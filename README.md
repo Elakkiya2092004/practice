@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Elakkiya2092004/practice/tree/master/2748-number-of-beautiful-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Elakkiya2092004/practice/tree/master/3663-find-the-least-frequent-digit) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Elakkiya2092004/practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3765-complete-prime-number](https://github.com/Elakkiya2092004/practice/tree/master/3765-complete-prime-number) |
 ## Recursion
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Elakkiya2092004/practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Elakkiya2092004/practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Elakkiya2092004/practice/tree/master/0645-set-mismatch) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Elakkiya2092004/practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Elakkiya2092004/practice/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Elakkiya2092004/practice/tree/master/2442-number-of-arithmetic-triplets) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Elakkiya2092004/practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Elakkiya2092004/practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Elakkiya2092004/practice/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Elakkiya2092004/practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Elakkiya2092004/practice/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
