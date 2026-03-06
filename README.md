@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Elakkiya2092004/practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Elakkiya2092004/practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Elakkiya2092004/practice/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Elakkiya2092004/practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Elakkiya2092004/practice/tree/master/0141-linked-list-cycle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Elakkiya2092004/practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Elakkiya2092004/practice/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Elakkiya2092004/practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Elakkiya2092004/practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Elakkiya2092004/practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Elakkiya2092004/practice/tree/master/0326-power-of-three) |
