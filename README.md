@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Elakkiya2092004/practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Elakkiya2092004/practice/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Elakkiya2092004/practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Elakkiya2092004/practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Elakkiya2092004/practice/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Elakkiya2092004/practice/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Elakkiya2092004/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Elakkiya2092004/practice/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Elakkiya2092004/practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Elakkiya2092004/practice/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Elakkiya2092004/practice/tree/master/1652-defuse-the-bomb) |
 ## Stack
 |  |
