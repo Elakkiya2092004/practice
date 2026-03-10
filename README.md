@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Elakkiya2092004/practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Elakkiya2092004/practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Elakkiya2092004/practice/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Elakkiya2092004/practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Elakkiya2092004/practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Elakkiya2092004/practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Elakkiya2092004/practice/tree/master/1346-check-if-n-and-its-double-exist) |
